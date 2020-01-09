@@ -1,0 +1,14 @@
+* {
+    border: 1px dotted purple;
+}
+h1 {
+    color: red;
+    display: inline-block;
+}
+tr {
+    color: blue;
+}
+.wrapper {
+    width: 970px;
+    margin: 0 auto;
+}
